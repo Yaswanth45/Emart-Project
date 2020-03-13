@@ -1,0 +1,12 @@
+.colorcheckout{
+    background-color:azure;
+}
+th,td{
+    padding: 15px;
+    text-align: center;
+    border-bottom: 1px solid brown;
+}
+th{
+    background-color: #4CAF50;
+    color: whitesmoke;
+}
